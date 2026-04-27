@@ -5,14 +5,14 @@
       "tag": "Base Jovem",
       "when": "11/05/2026 17:30",
       "description": "Base Jovem com a participação especial do Pr. Lucas",
-      "image": "https://raw.githubusercontent.com/DuduAlmeida/www-parousia-data/refs/heads/main/banners/depois-do-culto-tem-sorvete.png"
+      "image": "https://raw.githubusercontent.com/DuduAlmeida/www-parousia-events/refs/heads/main/banners/depois-do-culto-tem-sorvete.png"
     },
     {
       "title": "Ministério do Sorvete",
       "tag": "Vevete",
       "when": "04/04/2026 19:00",
       "description": "",
-      "image": "https://raw.githubusercontent.com/DuduAlmeida/www-parousia-data/main/banners/depois-do-culto-tem-sorvete.png"
+      "image": "https://raw.githubusercontent.com/DuduAlmeida/www-parousia-events/main/banners/depois-do-culto-tem-sorvete.png"
     }
   ]
 }
