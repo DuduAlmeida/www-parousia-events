@@ -1,11 +1,3 @@
 {
-  "events": [
-    {
-      "title": "Lançamento APP com Pra Lucas",
-      "tag": "Base Jovem",
-      "when": "09/05/2026 10:00",
-      "description": "",
-      "image": "https://raw.githubusercontent.com/DuduAlmeida/www-parousia-events/main/banners/Parousia%20-%20base%20jovem%20-%20pr%20lucas.png"
-    }
-  ]
+  "events": []
 }
