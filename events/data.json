@@ -1,11 +1,3 @@
 {
-  "events": [
-    {
-      "title": "Base Jovem - Pr. Lucas",
-      "tag": "Base Jovem",
-      "when": "11/05/2026 17:30",
-      "description": "Base Jovem com a participação especial do Pr. Lucas",
-      "image": "https://raw.githubusercontent.com/DuduAlmeida/www-parousia-events/refs/heads/main/banners/depois-do-culto-tem-sorvete.png"
-    }
-  ]
+  "events": []
 }
