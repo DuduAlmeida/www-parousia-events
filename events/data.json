@@ -1,25 +1,16 @@
 {
   "events": [
     {
-      "title": "Lançamento APP com Pr Lucas",
-      "tag": "Base Jovem",
-      "when": "09/05/2026 09:00",
-      "description": "",
-      "image": "https://raw.githubusercontent.com/DuduAlmeida/www-parousia-events/main/banners/Parousia%20-%20base%20jovem%20-%20pr%20lucas.png"
+      "title": "Somos ❄️ Nevasca no ↗️ MARANATASP",
+      "tag": "Maranata",
+      "when": "09/07/2026 09:00",
+      "image": "https://raw.githubusercontent.com/DuduAlmeida/www-parousia-events/main/banners/Maranata.png"
     },
     {
       "title": "Planos desalinhados",
       "tag": "Culto Jovem",
       "when": "07/06/2026 19:00",
-      "description": "",
       "image": "https://raw.githubusercontent.com/DuduAlmeida/www-parousia-events/main/banners/Planos%20desalinhados.png"
-    },
-    {
-      "title": "Somos ❄️ Nevasca no ↗️ MARANATASP",
-      "tag": "Maranata",
-      "when": "09/07/2026 09:00",
-      "description": "Nossa força vem do céu!\nNossa chama não se apaga!\nCom Jesus à nossa frente,\nAVANÇA, NEVASCA!\n\nLink para o site do maranata:\nhttps://maranatasp.com/",
-      "image": "https://raw.githubusercontent.com/DuduAlmeida/www-parousia-events/main/banners/Maranata.png"
     }
   ]
 }
