@@ -5,6 +5,13 @@
       "tag": "Maranata",
       "when": "09/07/2026 09:00",
       "image": "https://raw.githubusercontent.com/DuduAlmeida/www-parousia-events/main/banners/Maranata.png"
+    },
+    {
+      "title": "Domingo jovem",
+      "tag": "Culto",
+      "when": "14/06/2026 19:00",
+      "description": "Culto acontecerá no CAS.\n\nRua Carlos Lombardi, 180",
+      "image": "https://raw.githubusercontent.com/DuduAlmeida/www-parousia-events/main/banners/Deus é nosso refúgio.png"
     }
   ]
 }
